@@ -35,12 +35,12 @@ body::before {
 }
 
 a {
-  color: #EB8125;
+  color: white;
   text-decoration: none;
 }
 
 a:hover {
-  /* background: #fb9032; */
+  color: #EB8125;
   text-decoration: none;
 }
 
